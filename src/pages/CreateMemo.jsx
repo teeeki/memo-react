@@ -1,9 +1,10 @@
-const CreateMemo = () => {
+import PageHeader from "../components/PageHeader";
+
+export default function CreateMemo() {
     return (
-        <div>
+        <>
+            <PageHeader />
             <h1>Create Memo</h1>
-        </div>
+        </>
     );
 }
-
-export default CreateMemo;

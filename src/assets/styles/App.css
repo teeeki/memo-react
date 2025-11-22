@@ -2,7 +2,7 @@
   width: 100%;
   max-width: none;
   margin: 0;
-  padding: 3rem 4rem;
+  padding: 0 4rem 3rem 4rem;
   box-sizing: border-box;
 }
 
@@ -70,7 +70,7 @@
 
 .app-header {
   width: 100%;
-  margin: 0 auto 32px;
+  margin-top: 0;
   padding: 56px 48px;
   border-radius: 28px;
   background: radial-gradient(circle at top left, #86b4ff 0%, #5475f3 45%, #253068 100%);
